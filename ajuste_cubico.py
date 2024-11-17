@@ -65,4 +65,6 @@ print(f"Coeficientes: a = {a_cubic:.2f}, b = {b_cubic:.2f}, c = {c_cubic:.2f}, d
 print(f"Intersección (interseca) con el eje y (cuando x = 0): {interseccion_y_cubic:.2f}")
 print("\nRaíces de la ecuación cúbica:")
 for raiz in raices_cubic:
-    print(f"Resueve: {raiz:.2f}")
+print(f"Resueve: {raiz:.2f}")
+
+
